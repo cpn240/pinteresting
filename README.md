@@ -1,6 +1,6 @@
 # One Month Rails
 
 This is the pinteresting sample application for
-[*One MOnth Rails*](http://onemonthrails.com)
+[*One Month Rails*](http://onemonthrails.com)
 
-by [Mattan Griffel](Http://mattangriffel.com)
+by [Chris Norton](hhtp://sweetdonations.net)
